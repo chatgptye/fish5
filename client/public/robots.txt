@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ihfmnhcv00tsf1qqx4d0a-3f91d046.manusvm.computer/sitemap.xml
