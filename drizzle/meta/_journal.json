@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763081091078,
+      "tag": "0000_material_lockjaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763081146853,
+      "tag": "0001_dark_moondragon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763258502573,
+      "tag": "0002_workable_pyro",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1763404586231,
+      "tag": "0003_big_hex",
+      "breakpoints": true
+    }
+  ]
+}
